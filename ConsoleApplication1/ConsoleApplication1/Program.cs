@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hello World! This is my first program!
+namespace HelloWorld
 {
     class Program
     {

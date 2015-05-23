@@ -11,7 +11,7 @@ namespace _2_4_Data_Types
         static void Main(string[] args)
         {
             string hello = "Hello";
-            Console.WriteLine("ENter a string");
+            Console.WriteLine("Enter a string");
             string imput - Console.Readline();
             bool Result = input.Equals(Hello);
             Console.WriteLine((Result is:  {0});
